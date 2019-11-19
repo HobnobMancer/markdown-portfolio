@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+A PhD student at the **University of St Andrews** conducting research in biofuel production, with the aim of engineering *de novo* enzymes to signficantly improve the industrial process of biofuel production.
