@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[LinkedIn Profile](https://uk.linkedin.com/in/emma-eliza-hobbs?trk=people-guest_profile-result-card_result-card_full-click)
