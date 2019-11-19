@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the University of St Andrews](https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F38bcf422-7e2b-11e9-9cce-178843284a7a.jpg?crop=4990%2C2807%2C0%2C260&resize=685)
