@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Emma Hobbs
+## University of St Andrews
+### PhD Student, EastBio BBSRC
